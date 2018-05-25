@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new/TextEditor">
+        <file>Images/add.png</file>
+        <file>Images/arrow_redo.png</file>
+        <file>Images/arrow_undo.png</file>
+        <file>Images/book_open.png</file>
+        <file>Images/cut.png</file>
+        <file>Images/door_open.png</file>
+        <file>Images/page_copy.png</file>
+        <file>Images/page_save.png</file>
+        <file>Images/page_white_paste.png</file>
+        <file>Images/script_save.png</file>
+        <file>Images/Printer-Blue-icon.png</file>
+        <file>Images/printer.png</file>
+        <file>Images/color_swatch.png</file>
+        <file>Images/font.png</file>
+        <file>Images/backclr.jpg</file>
+        <file>Images/About_Icon_1.jpg</file>
+        <file>Images/full.jpg</file>
+        <file>Images/text_align_center.png</file>
+        <file>Images/text_align_justify.png</file>
+        <file>Images/text_align_left.png</file>
+        <file>Images/text_align_right.png</file>
+        <file>Images/text_bold.png</file>
+        <file>Images/text_italic.png</file>
+        <file>Images/text_underline.png</file>
+        <file>Images/zoom_in.png</file>
+        <file>Images/zoom_out.png</file>
+        <file>Images/Exit.png</file>
+    </qresource>
+</RCC>

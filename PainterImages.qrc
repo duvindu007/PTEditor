@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/Images">
+        <file>Images/add.png</file>
+        <file>Images/door_open.png</file>
+        <file>Images/page_save.png</file>
+        <file>Images/color_swatch.png</file>
+        <file>Images/ellipse.jpg</file>
+        <file>Images/shape_rectangle.png</file>
+        <file>Images/pensize.png</file>
+        <file>Images/erase.png</file>
+        <file>Images/save.png</file>
+        <file>Images/About_Icon_1.jpg</file>
+        <file>Images/Brush.jpg</file>
+        <file>Images/Pen.jpg</file>
+    </qresource>
+</RCC>
